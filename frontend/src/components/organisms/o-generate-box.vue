@@ -77,7 +77,11 @@ const generate = async () => {
   if (!generateBtn.getAttribute("disabled") || generateBtn.getAttribute("disabled") == "false") {
     let chosenWord = undefined;
 
-    if (originalUrlRef.value.trim() === "") {
+    if (
+      originalUrlRef.value.trim() === "" || 
+      (!originalUrlRef.value.startsWith("http://") && !originalUrlRef.value.startsWith("https://")) ||
+      originalUrlRef.value.length > 1000
+    ) {
       enableGenerateBtn();
       return;
     }
