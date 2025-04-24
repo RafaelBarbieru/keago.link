@@ -12,9 +12,9 @@ This was the final project for my Bachelor Degree in Software Development at Kø
 - AWS DynamoDB
 
 # Functional walkthrough
-[](img/01.png)
+![Screenshot 1](img/01.png)
 Put in your redirection URL and click on Generate!
-[](img/02.png)
+![Screenshot 2](img/02.png)
 If you travel to the generated URL you'll be redirected to your original URL.
 If you travel to an unknown URL, you'll be greeted with a 404 page.
-[](img/03.png)
+![Screenshot 3](img/03.png)
