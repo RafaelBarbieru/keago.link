@@ -11,10 +11,23 @@ This was the final project for my Bachelor Degree in Software Development at Kø
 - AWS S3 Buckets
 - AWS DynamoDB
 
-# Functional walkthrough
-![Screenshot 1](img/01.png)
-Put in your redirection URL and click on Generate!
-![Screenshot 2](img/02.png)
-If you travel to the generated URL you'll be redirected to your original URL.
-If you travel to an unknown URL, you'll be greeted with a 404 page.
-![Screenshot 3](img/03.png)
+# Documentation
+![Page 1](img/page_1.jpg)
+![Page 2](img/page_2.jpg)
+![Page 3](img/page_3.jpg)
+![Page 4](img/page_4.jpg)
+![Page 5](img/page_5.jpg)
+![Page 6](img/page_6.jpg)
+![Page 7](img/page_7.jpg)
+![Page 8](img/page_8.jpg)
+![Page 9](img/page_9.jpg)
+![Page 10](img/page_10.jpg)
+![Page 11](img/page_11.jpg)
+![Page 12](img/page_12.jpg)
+![Page 13](img/page_13.jpg)
+![Page 14](img/page_14.jpg)
+![Page 15](img/page_15.jpg)
+![Page 16](img/page_16.jpg)
+![Page 17](img/page_17.jpg)
+![Page 18](img/page_18.jpg)
+
